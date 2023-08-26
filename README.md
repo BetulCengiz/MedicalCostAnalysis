@@ -6,7 +6,7 @@ Aygaz Makine Öğrenmesi Bootcamp
 dataset given above. The aim of the project is to estimate the approximate cost of a person's
 health insurance based on the given variables. While creating the project, try to follow the
 instructions below and make sure that the project is unique.
-- 1. Creating a Google Colaboratory File
+-1. Creating a Google Colaboratory File
 * ● Make sure your project has .ipynb extension.
 * ● Make sure that there are comment lines explaining the details in your project.
 * ● When submitting the project, submit the cells of this .ipynb file so that the cells are
