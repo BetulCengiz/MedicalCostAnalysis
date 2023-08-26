@@ -1,4 +1,4 @@
-# Maedical Cost Analysis
+# Medical Cost Analysis
 Aygaz Makine Öğrenmesi Bootcamp
 ## Medical Cost Analysis  
 - Dataset: https://www.kaggle.com/datasets/mirichoi0218/insurance
