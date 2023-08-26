@@ -10,7 +10,7 @@ instructions below and make sure that the project is unique.
 ● Make sure your project has .ipynb extension.
 ● Make sure that there are comment lines explaining the details in your project.
 ● When submitting the project, submit the cells of this .ipynb file so that the cells are
-run and the results are visible.
+run and the results are visible.  
 2. Importing Required Libraries
 ● Import the required libraries for the project to the Colab environment.
 ● Import Pandas, NumPy, Seaborn, Matplotlib and Sklearn libraries for data analysis
@@ -45,12 +45,5 @@ variables.
 7. Model Evaluation
 ● Evaluate the optimized model using regression model evaluation metrics. (Ex. Mean
 Squared Error, Mean Absolute Error etc.)
-8. Project Delivery
-● For the project, you need to prepare a code file with the extension of .ipynb and run
-all the cells.
-● You need to add these files that you have prepared to a GitHub repo and add the link
-of this repo to the form that is given down below.
-● The project will be done as a team or individual. The teams created should be a
-maximum of 3 people.
-● Form Link: https://forms.gle/2apBpbawauTLcA817
+A817
 ● Deadline: 26.08.2023 - 23:59
