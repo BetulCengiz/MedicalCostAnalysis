@@ -1,6 +1,6 @@
 # MadicalCostAnalysis
 Aygaz Makine Öğrenmesi Bootcamp
-Medical Cost Analysis
+Medical Cost Analysis  
 Dataset: https://www.kaggle.com/datasets/mirichoi0218/insurance
 In this project, you will be trying to develop an end-to-end data science application using the
 dataset given above. The aim of the project is to estimate the approximate cost of a person's
@@ -11,7 +11,7 @@ instructions below and make sure that the project is unique.
 ● Make sure that there are comment lines explaining the details in your project.
 ● When submitting the project, submit the cells of this .ipynb file so that the cells are
 run and the results are visible.  
-2. Importing Required Libraries
+2. Importing Required Libraries  
 ● Import the required libraries for the project to the Colab environment.
 ● Import Pandas, NumPy, Seaborn, Matplotlib and Sklearn libraries for data analysis
 3. Perform An Exploratory Data Analysis
